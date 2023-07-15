@@ -25,5 +25,5 @@
  <a href="https://open.spotify.com/user/31wrj2qqrgsfvmtnpbzu432sjvc4">
   <img height="170em" src="https://spotify-github-profile.vercel.app/api/view?uid=31wrj2qqrgsfvmtnpbzu432sjvc4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"/>
   <a href="https://discord.com/users/1127934293226835998"> 
-  <img height="170em" src="https://lanyard.cnrad.dev/api/1127934293226835998?idleMessage=🌊 Blue Codes <3"/>
+  <img height="170em" src="https://lanyard.cnrad.dev/api/1127934293226835998?idleMessage=🌊"/>
 </div>
