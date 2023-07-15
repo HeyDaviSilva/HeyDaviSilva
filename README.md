@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, me chamo Davi.</h1>
 
 <p align="center">📌 Staff da <strong>FarLands</strong> (https://discord.lojafar.online)</p>
-<p align="center">💻 Programando a <strong>Blue Codes</strong></p>
+<p align="center">💻 Criando a <strong>Blue Codes</strong></p>
 </div>
 <div align="center">
 <h2>🚀 Skills</h2>
