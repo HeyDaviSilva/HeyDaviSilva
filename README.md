@@ -13,7 +13,11 @@
 
 <div align="center">
 <h2 align="center">📞 Contatos</h2>
-<div class="discord">
+<div class="mail">
+ <a href="mailto:heydavisilvax@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</div>
+ <div class="discord">
  <a href="https://discord.com/users/662402220784091146">
  <img src="https://img.shields.io/badge/Discord-282B30?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
