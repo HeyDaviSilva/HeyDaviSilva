@@ -8,6 +8,7 @@
 <h2>🚀 Skills</h2>
  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-plain.svg" alt="DiscordJS"/></code>
+ <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/></code>
 </div>
 
 
