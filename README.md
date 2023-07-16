@@ -1,8 +1,8 @@
 <div>
-<h1 align="center">👋 Olá, me chamo Davi.</h1>
+<h1 align="center">👋 Hello, My name is Davi.</h1>
 
-<p align="center">📌 Staff da <strong>FarLands</strong> (https://discord.lojafar.online)</p>
-<p align="center">💻 Criando a <strong>Blue Codes</strong></p>
+<p align="center">📌 Staff at <strong>FarLands</strong> (https://discord.lojafar.online)</p>
+<p align="center">💻 Creating <strong>Blue Codes</strong></p>
 </div>
 <div align="center">
 <h2>🚀 Skills</h2>
@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<h2 align="center">📞 Contatos</h2>
+<h2 align="center">📞 Contacts</h2>
 <div class="mail">
  <a href="mailto:heydavisilvax@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -24,7 +24,7 @@
 </div>
 </div>
  
-<h2 align="center">⏱ Status discord</h2>
+<h2 align="center">⏱ Discord status</h2>
 
 <div align="center">
  <a href="https://open.spotify.com/user/31wrj2qqrgsfvmtnpbzu432sjvc4">
