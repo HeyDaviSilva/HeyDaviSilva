@@ -1,7 +1,6 @@
 <div>
 <h1 align="center">👋 Hello, My name is Davi.</h1>
 
-<p align="center">📌 Staff at <strong>FarLands</strong> (https://discord.lojafar.online)</p>
 <p align="center">💻 Creating <strong>Blue Codes</strong></p>
 </div>
 <div align="center">
